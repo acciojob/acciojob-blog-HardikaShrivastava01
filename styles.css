@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+
+h1 {
+	text-align: center
+}
+
+h3 {
+	color: purple;
+}
+a {
+	color: blue
+}
+p {
+	color: blue
+}
